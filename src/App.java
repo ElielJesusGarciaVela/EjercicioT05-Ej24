@@ -24,7 +24,7 @@ public class App {
             for (i = 1; i < planta; i++) {
                 System.out.print(i);
             }
-            for (i =planta; i > 0; i--){
+            for (i = planta; i > 0; i--){
                 System.out.print(i);
             }
             System.out.println();
